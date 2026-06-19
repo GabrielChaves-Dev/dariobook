@@ -1,0 +1,8 @@
+{
+  "name": "DarioBook",
+  "description": "Sistema moderno e responsivo de gerenciamento de empréstimos, estoque, usuários, livros e editoras para bibliotecas escolares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
